@@ -5,56 +5,25 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:aoci_lab1"
         mc:Ignorable="d"
-        Title="Лабораторная работа #1. Простой обработчик изображений" Height="560" Width="800">
+        Title="Лабораторная работа #1. Простой обработчик изображений" Height="400" Width="600">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="200"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <!-- Панель с кнопками и слайдерами -->
         <Border Grid.Column="0" BorderBrush="DimGray" BorderThickness="1" Margin="5">
             <StackPanel Margin="5">
-                
+
                 <Button Content="Открыть изображение" Click="LoadImage_Click" Margin="0,0,0,10" FontWeight="Bold"/>
-                <Button Content="Сбросить" Click="Clear_Click" Margin="0,0,0,5"/>
                 <Button Content="Инвертировать" Click="Invert_Click" Margin="0,0,0,5"/>
-                <Button Content="Черно-белый" Click="Grayscale_Click" Margin="0,0,0,10"/>
-
-                <Border BorderBrush="DimGray" BorderThickness="1" Margin="5">
-                    <StackPanel Margin="10">
-                        <Label Content="Операции с каналами" HorizontalContentAlignment="Center" VerticalContentAlignment="Stretch"/>
-                        
-                        <!--Button Content="Удалить красный" Click="RemoveRed_Click" Margin="0,0,0,5"/-->
-                        <!--Button Content="Удалить зеленый" Click="RemoveGreen_Click" Margin="0,0,0,5"/-->
-                        <!--Button Content="Удалить синий" Click="RemoveBlue_Click" Margin="0,0,0,10"/-->
-
-                        <Label Content="Красный канал"/>
-                        <Slider Minimum="-255" Maximum="255" Value="0" Name="RedSlider" ValueChanged="ChannelSlider_ValueChanged"/>
-                        <Label Content="Зеленый канал"/>
-                        <Slider Minimum="-255" Maximum="255" Value="0" Name="GreenSlider" ValueChanged="ChannelSlider_ValueChanged"/>
-                        <Label Content="Синий канал"/>
-                        <Slider Minimum="-255" Maximum="255" Value="0" Name="BlueSlider" ValueChanged="ChannelSlider_ValueChanged"/>
-
-                    </StackPanel>
-                </Border>
-
                 <Label Content="Яркость"/>
                 <Slider Minimum="-100" Maximum="100" Value="0" Name="BrightnessSlider" ValueChanged="BrightnessSlider_ValueChanged"/>
-                <Label Content="Контраст"/>
-                <Slider Minimum="0" Maximum="5" Value="1" Name="ContrastSlider" ValueChanged="ContrastSlider_ValueChanged"/>
-
-                <Button Content="Применить изменения" Click="UpdateImage_Click" Margin="0,20,0,5"/>
-                <Button Content="Сохранить изображение" Click="SaveImage_Click" Margin="0,0,0,0" FontWeight="Bold"/>
-                
+                <Button Content="Сохранить изображение" Click="SaveImage_Click" Margin="0,10,0,0" FontWeight="Bold"/>
             </StackPanel>
         </Border>
-        
-        <!-- Здесь будет картинка -->
         <Border Grid.Column="1" BorderBrush="DimGray" BorderThickness="1" Margin="5">
-            
             <Image Name="MainImage"  Margin="5" Stretch="Uniform"/>
-            
         </Border>
 
     </Grid>
