@@ -1,0 +1,57 @@
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\Example Image Redactor.exe
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\Example Image Redactor.deps.json
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\Example Image Redactor.runtimeconfig.json
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\Example Image Redactor.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\Example Image Redactor.pdb
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor.csproj.AssemblyReference.cache
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor_MarkupCompile.cache
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor_MarkupCompile.lref
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor.g.resources
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor.AssemblyInfoInputs.cache
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor.AssemblyInfo.cs
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor.csproj.CoreCompileInputs.cache
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\refint\Example Image Redactor.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor.pdb
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor.genruntimeconfig.cache
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\ref\Example Image Redactor.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\Emgu.CV.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4120_64.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4120.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\bin\Debug\net7.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\ASRock\source\repos\Example Image Redactor\Example Image Redactor\obj\Debug\net7.0-windows\Example Image Redactor.csproj.CopyComplete
